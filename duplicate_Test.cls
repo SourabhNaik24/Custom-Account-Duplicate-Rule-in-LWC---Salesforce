@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------------------------------------
-Name:       duplicate.cls
+Name:       duplicate_Test.cls
 Purpose:    Test class for duplicate.cls.
 ------------------------------History--------------------------------------------------------
 Version     Author                Date                 Detail Description 
