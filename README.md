@@ -1,6 +1,6 @@
 # Custom-Account-Duplicate-Rule-in-LWC---Salesforce
 
-By using this LWC component in Account Page you can have the custom logic and you can introduce your own pop up toast message other than the standard duplicate rule functionality. Here we have removed the hyperlink from the toast message. Also used 'Datacloud.FindDuplicatesResult', 'Datacloud.DuplicateResult', 'Datacloud.matchResult' and 'Datacloud.MatchRecord' salesforce methods to leverage duplicate rules and matching rules in apex.
+By utilizing this LWC component on the Account Page, you can add your pop-up toast message in addition to the duplicate rule functionality and use custom logic. The toast message's URL has been eliminated in this instance. Additionally, to make use of the duplicate rules and matching rules in apex, salesforce methods 'Datacloud.FindDuplicatesResult', 'Datacloud.DuplicateResult', 'Datacloud.matchResult', and 'Datacloud.MatchRecord' were utilized.
 
 Output:
 
